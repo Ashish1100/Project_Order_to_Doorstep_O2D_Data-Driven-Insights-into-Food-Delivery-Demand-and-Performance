@@ -1,0 +1,7 @@
+pandas
+matplotlib
+seaborn
+plotly
+numpy==1.26.4
+sweetviz==2.3.1
+
