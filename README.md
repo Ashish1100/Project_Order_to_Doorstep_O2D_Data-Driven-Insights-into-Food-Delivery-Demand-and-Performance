@@ -6,7 +6,7 @@
 ![Status](https://img.shields.io/badge/Project_Status-Completed-success?style=flat-square)
 
 ## Project Overview
-**Order to Doorstep (O2D)** is a comprehensive data analysis project focused on **FoodHub**, a food aggregator company operating in New York City. As urban lifestyles become increasingly hectic, the demand for convenient online food delivery has surged.
+**Order to Doorstep (O2D)** is a comprehensive data analysis project focused on **FoodHub**, a food aggregator company. As urban lifestyles become increasingly hectic, the demand for convenient online food delivery has surged.
 
 This project utilizes **Exploratory Data Analysis (EDA)** to examine FoodHub's order-level data. By analyzing the interplay between customers, restaurants, and delivery partners, the project aims to uncover actionable insights into demand patterns, operational bottlenecks, and customer satisfaction drivers.
 
