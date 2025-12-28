@@ -48,6 +48,7 @@ As a Data Scientist for FoodHub, the primary goals of this analysis are:
 
 
 ![Strategy](https://github.com/Ashish1100/Project_Order_to_Doorstep_O2D_Data-Driven-Insights-into-Food-Delivery-Demand-and-Performance/blob/main/images/STRATEGY.png)
+
 ---
 
 ## Dataset Description
@@ -101,16 +102,37 @@ After rigorous Exploratory Data Analysis (EDA), the following patterns emerged:
 *Note: The following plots were generated during the analysis to visualize distributions and correlations.*
 
 ### Cuisine Popularity
-*(Top 5 Cuisines driving the majority of revenue)*
-![Cuisine Distribution](https://placehold.co/600x400/EFEFEF/333333?text=Placeholder:+Insert+Cuisine+Bar+Chart+Here)
+![Cuisine_revenue](https://github.com/Ashish1100/Project_Order_to_Doorstep_O2D_Data-Driven-Insights-into-Food-Delivery-Demand-and-Performance/blob/main/images/Cuisines_revenue.png)
+
+![cuisines](https://github.com/Ashish1100/Project_Order_to_Doorstep_O2D_Data-Driven-Insights-into-Food-Delivery-Demand-and-Performance/blob/main/images/cuisines.png)
+
+![cuisines_1](https://github.com/Ashish1100/Project_Order_to_Doorstep_O2D_Data-Driven-Insights-into-Food-Delivery-Demand-and-Performance/blob/main/images/cuisines_1.png)
 
 ### Delivery Time Distribution
-*(Histogram showing the spread of delivery times across the fleet)*
-![Delivery Time](https://placehold.co/600x400/EFEFEF/333333?text=Placeholder:+Insert+Delivery+Time+Dist+Here)
+![Delivery Time](https://github.com/Ashish1100/Project_Order_to_Doorstep_O2D_Data-Driven-Insights-into-Food-Delivery-Demand-and-Performance/blob/main/images/Delivery_time.png)
 
-### Cost vs. Rating
-*(Boxplot analyzing if expensive orders get better ratings)*
-![Cost vs Rating](https://placehold.co/600x400/EFEFEF/333333?text=Placeholder:+Insert+Cost+vs+Rating+Boxplot)
+![Delivery Time](https://github.com/Ashish1100/Project_Order_to_Doorstep_O2D_Data-Driven-Insights-into-Food-Delivery-Demand-and-Performance/blob/main/images/Percentage_of_Orders_Taking_60_mins.png)
+
+### Customer Ratings
+
+![Rating](https://github.com/Ashish1100/Project_Order_to_Doorstep_O2D_Data-Driven-Insights-into-Food-Delivery-Demand-and-Performance/blob/main/images/Rating.png)
+
+![Customer_Ratings](https://github.com/Ashish1100/Project_Order_to_Doorstep_O2D_Data-Driven-Insights-into-Food-Delivery-Demand-and-Performance/blob/main/images/Customer_Ratings.png)
+
+### Restaurants
+
+![Top_10_Revenue_Generating_Restaurants](https://github.com/Ashish1100/Project_Order_to_Doorstep_O2D_Data-Driven-Insights-into-Food-Delivery-Demand-and-Performance/blob/main/images/Top_10_Revenue_Generating_Restaurants.png)
+
+![High_Performing_Restaurants](https://github.com/Ashish1100/Project_Order_to_Doorstep_O2D_Data-Driven-Insights-into-Food-Delivery-Demand-and-Performance/blob/main/images/High_Performing_Restaurants.png)
+
+### Top Customers
+
+![Top_5 Most_Frequent_Customers](https://github.com/Ashish1100/Project_Order_to_Doorstep_O2D_Data-Driven-Insights-into-Food-Delivery-Demand-and-Performance/blob/main/images/Top_5%20Most_Frequent_Customers.png)
+
+
+### Correlation Heatmap
+
+![Correlation_Heatmap](https://github.com/Ashish1100/Project_Order_to_Doorstep_O2D_Data-Driven-Insights-into-Food-Delivery-Demand-and-Performance/blob/main/images/correlation_matrix.png)
 
 ---
 
