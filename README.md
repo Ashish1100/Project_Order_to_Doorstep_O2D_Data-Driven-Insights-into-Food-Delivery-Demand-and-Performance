@@ -43,8 +43,11 @@ As a Data Scientist for FoodHub, the primary goals of this analysis are:
 ---
 
 ## Architecture
-Image
 
+![Architecture ](https://github.com/Ashish1100/Project_Order_to_Doorstep_O2D_Data-Driven-Insights-into-Food-Delivery-Demand-and-Performance/blob/main/images/architecture.png)
+
+
+![Strategy](https://github.com/Ashish1100/Project_Order_to_Doorstep_O2D_Data-Driven-Insights-into-Food-Delivery-Demand-and-Performance/blob/main/images/STRATEGY.png)
 ---
 
 ## Dataset Description
