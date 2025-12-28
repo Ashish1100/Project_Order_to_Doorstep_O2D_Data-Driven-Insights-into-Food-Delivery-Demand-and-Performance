@@ -187,8 +187,12 @@ Order to Doorstep (O2D)/
 │   ├── data_visualization.py                        # Plotting and visualization utilities
 │   └── analysis_helpers.py                          # Helper functions for metrics and business logic
 │
+├── images/
+│   └── # all images of results used in readme.md
+│
 ├── main.py                                          # Script to execute the analysis workflow
 ├── README.md                                        # Project documentation (this file)
+├── license.md                                       # License and legal 
 └── requirements.txt                                 # Dependency list
 ```
 
